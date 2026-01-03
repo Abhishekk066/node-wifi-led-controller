@@ -230,6 +230,6 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Made with ❤️ by [Abhi0065](https://github.com/Abhishekk066)**
+**Made with ❤️ by [Abhishekk066](https://github.com/Abhishekk066)**
 
 For questions or support, please open an issue on GitHub or contact the maintainer.
